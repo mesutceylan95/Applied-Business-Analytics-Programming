@@ -75,8 +75,7 @@ for category in categories_train:
             print(file)
 
 
-# ### path= r'C:\Users\mesut\Desktop\UZH M.Sc. Data Science\02. Applied Business Analytics Programming Bootcamp-2\project'
-# 
+
 # dir_list = next(os.walk('.'))
 # #print(dir_list)
 # 
